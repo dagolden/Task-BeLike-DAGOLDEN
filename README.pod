@@ -48,17 +48,17 @@ version 0.001
 
 =head3 L<Test::Differences>
 
-=head3 L<Test::Fatal> 0
+=head3 L<Test::Fatal>
 
-Version 0 required because: Better than Test::Exception
+Better than Test::Exception
 
 =head3 L<Test::More> 0.96
 
 Version 0.96 required because: Minimally sane subtest()'s
 
-=head3 L<Test::Routine> 0
+=head3 L<Test::Routine>
 
-Version 0 required because: Better than Test::Class
+Better than Test::Class
 
 =head2 Perl development tools
 

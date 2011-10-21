@@ -49,12 +49,15 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg Test::Differences
 
-=pkg Test::Fatal 0 Better than Test::Exception
+=pkg Test::Fatal
+
+Better than Test::Exception
 
 =pkg Test::More  0.96   Minimally sane subtest()'s
 
-=pkg Test::Routine 0 Better than Test::Class
+=pkg Test::Routine
 
+Better than Test::Class
 
 =pkgroup Perl development tools
 
