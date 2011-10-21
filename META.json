@@ -1,0 +1,114 @@
+{
+   "abstract" : "DAGOLDEN's frequently-used or favorite modules",
+   "author" : [
+      "David Golden <dagolden@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.300002, CPAN::Meta::Converter version 2.112580",
+   "license" : [
+      "apache_2_0"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Task-BeLike-DAGOLDEN",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "xt",
+         "examples",
+         "corpus"
+      ],
+      "package" : [
+         "DB"
+      ]
+   },
+   "prereqs" : {
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.30"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "App::Ack" : 0,
+            "App::cpanminus" : 0,
+            "App::grindperl" : 0,
+            "App::mymeta_requires" : 0,
+            "Archive::Tar" : 0,
+            "Archive::Tar::Wrapper" : 0,
+            "Archive::Zip" : 0,
+            "Bundle::LWP" : 0,
+            "CPAN::DistnameInfo" : 0,
+            "CPAN::Mini" : 0,
+            "CPAN::Uploader" : 0,
+            "CPAN::Visitor" : 0,
+            "Daemon::Daemonize" : 0,
+            "Data::Dump::Streamer" : 0,
+            "Devel::NYTProf" : 0,
+            "Dist::Zilla" : "4",
+            "Dist::Zilla::PluginBundle::DAGOLDEN" : "0.018",
+            "Email::MIME" : 0,
+            "Email::Sender" : 0,
+            "Email::Sender::Simple" : 0,
+            "Email::Simple" : 0,
+            "Email::Simple::Creator" : 0,
+            "File::Find::Rule" : 0,
+            "File::Find::Rule::Perl" : 0,
+            "File::Slurp" : 0,
+            "File::pushd" : 0,
+            "Getopt::Lucid" : 0,
+            "HTTP::Tiny" : 0,
+            "Module::Load::Conditional" : 0,
+            "Moose" : 0,
+            "Path::Class" : 0,
+            "Path::Class::Rule" : 0,
+            "Perl::Version" : 0,
+            "Pod::Strip" : 0,
+            "Pod::Usage" : 0,
+            "Test::Deep" : 0,
+            "Test::Differences" : 0,
+            "Test::Fatal" : 0,
+            "Test::More" : "0.96",
+            "Test::Routine" : 0,
+            "URI" : 0,
+            "WWW::Mechanize" : 0,
+            "autodie" : 0,
+            "namespace::autoclean" : 0,
+            "perl" : "5.006",
+            "strict" : 0,
+            "version" : 0,
+            "warnings" : 0
+         }
+      },
+      "test" : {
+         "requires" : {
+            "File::Find" : 0,
+            "File::Temp" : 0,
+            "Test::More" : 0
+         }
+      }
+   },
+   "provides" : {
+      "Task::BeLike::DAGOLDEN" : {
+         "file" : "lib/Task/BeLike/DAGOLDEN.pm",
+         "version" : "0.001"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "mailto" : "bug-task-belike-dagolden at rt.cpan.org",
+         "web" : "http://rt.cpan.org/Public/Dist/Display.html?Name=Task-BeLike-DAGOLDEN"
+      },
+      "homepage" : "https://github.com/dagolden/task-belike-dagolden",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/dagolden/task-belike-dagolden.git",
+         "web" : "https://github.com/dagolden/task-belike-dagolden"
+      }
+   },
+   "version" : "0.001"
+}
+
