@@ -4,12 +4,7 @@ use warnings;
 
 package Task::BeLike::DAGOLDEN;
 # VERSION
-
-1;
-
 # ABSTRACT: DAGOLDEN's frequently-used or favorite modules
-
-=pod
 
 =pkgroup Apps
 
@@ -117,14 +112,18 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg Bundle::LWP
 
+=pkg LWP::Protocol::https
+
 =pkg HTTP::Tiny
+
+=pkg IO::Socket::SSL
 
 =pkg URI
 
 =pkg WWW::Mechanize
 
 
-=pkggroup Data manipulation tools
+=pkgroup Data manipulation tools
 
 =pkg Data::Stream::Bulk
 
@@ -143,16 +142,7 @@ package Task::BeLike::DAGOLDEN;
 =pkg YAML
 
 
-=pkggroup Special-purpose tools
-
-=pkg Git::Wrapper
-
-=pkg Image::ExifTool
-
-=pkg Net::GitHub::V2::Repositories
-
-
-=pkggroup System interaction tools
+=pkgroup System interaction tools
 
 =pkg Capture::Tiny
 
@@ -165,12 +155,17 @@ package Task::BeLike::DAGOLDEN;
 =pkg Time::HiRes
 
 
-=head1 USAGE
+=pkgroup Special-purpose tools
 
-This module has no direct functionality.  It is merely a placeholder
-for prerequisites.  Installing it will ensure all the prerequisites listed
-are satisfied.
+=pkg Git::Wrapper
+
+=pkg Image::ExifTool
+
+=pkg Net::GitHub::V2::Repositories
+
 
 =cut
+
+1;
 
 # vim: ts=2 sts=2 sw=2 et:
