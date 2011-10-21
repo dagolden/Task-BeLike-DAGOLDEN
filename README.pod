@@ -18,6 +18,8 @@ version 0.001
 
 =head3 L<App::mymeta_requires>
 
+=head3 L<App::Nopaste>
+
 =head2 CLI tools
 
 =head3 L<Daemon::Daemonize>
@@ -112,55 +114,53 @@ Version 0 required because: Better than Test::Class
 
 =head3 L<Bundle::LWP>
 
+=head3 L<LWP::Protocol::https>
+
 =head3 L<HTTP::Tiny>
+
+=head3 L<IO::Socket::SSL>
 
 =head3 L<URI>
 
 =head3 L<WWW::Mechanize>
 
-=pkggroup Data manipulation tools
+=head2 Data manipulation tools
 
-=pkg Data::Stream::Bulk
+=head3 L<Data::Stream::Bulk>
 
-=pkg JSON
+=head3 L<JSON>
 
-=pkg JSON::XS
+=head3 L<JSON::XS>
 
-=pkg List::AllUtils
+=head3 L<List::AllUtils>
 
-=pkg Regexp::Common
+=head3 L<Regexp::Common>
 
-=pkg XML::RSS
+=head3 L<XML::RSS>
 
-=pkg XML::Simple
+=head3 L<XML::Simple>
 
-=pkg YAML
+=head3 L<YAML>
 
-=pkggroup Special-purpose tools
+=head2 System interaction tools
 
-=pkg Git::Wrapper
+=head3 L<Capture::Tiny>
 
-=pkg Image::ExifTool
+=head3 L<IO::CaptureOutput>
 
-=pkg Net::GitHub::V2::Repositories
+=head3 L<IPC::Run3>
 
-=pkggroup System interaction tools
+=head3 L<IPC::System::Simple>
 
-=pkg Capture::Tiny
+=head3 L<Time::HiRes>
 
-=pkg IO::CaptureOutput
+=head2 Special-purpose tools
 
-=pkg IPC::Run3
+=head3 L<Git::Wrapper>
 
-=pkg IPC::System::Simple
+=head3 L<Image::ExifTool>
 
-=pkg Time::HiRes
-
-=head1 USAGE
-
-This module has no direct functionality.  It is merely a placeholder
-for prerequisites.  Installing it will ensure all the prerequisites listed
-are satisfied.
+=head3 L<Net::GitHub::V2::Repositories>
 
 =head1 AUTHOR
 
