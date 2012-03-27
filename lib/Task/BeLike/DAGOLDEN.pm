@@ -59,6 +59,18 @@ Better than Test::Exception
 
 Better than Test::Class
 
+=pkg Test::Perl::Critic
+
+=pkg Perl::Critic::Lax
+
+=pkg Test::CPAN::Meta
+
+=pkg Test::Pod::Coverage 1.08
+
+=pkg Pod::Coverage::TrustPod
+
+=pkg Test::Pod 1.41
+
 =pkgroup Perl development tools
 
 =pkg Archive::Tar
@@ -166,6 +178,7 @@ Better than Test::Class
 
 =pkg Net::GitHub::V2::Repositories
 
+=pkg Vi::QuickFix
 
 =cut
 
