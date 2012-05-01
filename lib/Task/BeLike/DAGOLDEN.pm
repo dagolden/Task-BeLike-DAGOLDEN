@@ -89,6 +89,8 @@ Better than Test::Class
 
 =pkg Data::Dump::Streamer
 
+=pkg Devel::Cover
+
 =pkg Devel::NYTProf
 
 =pkg Dist::Zilla 4
