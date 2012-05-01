@@ -42,6 +42,11 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg Path::Class::Rule
 
+=pkgroup Database Modules
+
+=pkg DBI
+
+=pkg DBD::SQLite
 
 =pkgroup Testing Modules
 
