@@ -18,6 +18,7 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg App::Nopaste
 
+=pkg App::Uni
 
 =pkgroup CLI tools
 
