@@ -4,7 +4,7 @@
       "David Golden <dagolden@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300009, CPAN::Meta::Converter version 2.120900",
+   "generated_by" : "Dist::Zilla version 4.300021, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "apache_2_0"
    ],
@@ -34,6 +34,7 @@
          "requires" : {
             "App::Ack" : "0",
             "App::Nopaste" : "0",
+            "App::Uni" : "0",
             "App::cpanminus" : "0",
             "App::grindperl" : "0",
             "App::mymeta_requires" : "0",
@@ -46,11 +47,13 @@
             "CPAN::Uploader" : "0",
             "CPAN::Visitor" : "0",
             "Capture::Tiny" : "0",
+            "Const::Fast" : "0",
             "DBD::SQLite" : "0",
             "DBI" : "0",
             "Daemon::Daemonize" : "0",
             "Data::Dump::Streamer" : "0",
             "Data::Stream::Bulk" : "0",
+            "Devel::Cover" : "0",
             "Devel::NYTProf" : "0",
             "Dist::Zilla" : "4",
             "Dist::Zilla::PluginBundle::DAGOLDEN" : "0.018",
@@ -78,14 +81,17 @@
             "Module::Load::Conditional" : "0",
             "Moose" : "0",
             "Net::GitHub::V2::Repositories" : "0",
+            "Pantry" : "0",
             "Path::Class" : "0",
             "Path::Class::Rule" : "0",
             "Perl::Critic::Lax" : "0",
             "Perl::Version" : "0",
+            "Plack" : "0",
             "Pod::Coverage::TrustPod" : "0",
             "Pod::Strip" : "0",
             "Pod::Usage" : "0",
             "Regexp::Common" : "0",
+            "Syntax::Keyword::Junction" : "0",
             "Test::CPAN::Meta" : "0",
             "Test::Deep" : "0",
             "Test::Differences" : "0",
@@ -127,13 +133,13 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "mailto" : "bug-task-belike-dagolden at rt.cpan.org",
-         "web" : "http://rt.cpan.org/Public/Dist/Display.html?Name=Task-BeLike-DAGOLDEN"
+         "mailto" : "bug-Task-BeLike-DAGOLDEN@rt.cpan.org",
+         "web" : "https://rt.cpan.org/Public/Dist/Display.html?Name=Task-BeLike-DAGOLDEN"
       },
-      "homepage" : "https://github.com/dagolden/task-belike-dagolden",
+      "homepage" : "https://metacpan.org/release/Task-BeLike-DAGOLDEN",
       "repository" : {
          "type" : "git",
-         "url" : "https://github.com/dagolden/task-belike-dagolden.git",
+         "url" : "git://github.com/dagolden/task-belike-dagolden.git",
          "web" : "https://github.com/dagolden/task-belike-dagolden"
       }
    },

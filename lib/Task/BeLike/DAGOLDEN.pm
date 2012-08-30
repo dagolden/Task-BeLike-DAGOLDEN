@@ -6,6 +6,7 @@ package Task::BeLike::DAGOLDEN;
 # VERSION
 # ABSTRACT: DAGOLDEN's frequently-used or favorite modules
 
+
 =pkgroup Apps
 
 =pkg App::Ack
@@ -19,6 +20,9 @@ package Task::BeLike::DAGOLDEN;
 =pkg App::Nopaste
 
 =pkg App::Uni
+
+=pkg Pantry
+
 
 =pkgroup CLI tools
 
@@ -43,11 +47,13 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg Path::Class::Rule
 
+
 =pkgroup Database Modules
 
 =pkg DBI
 
 =pkg DBD::SQLite
+
 
 =pkgroup Testing Modules
 
@@ -76,6 +82,7 @@ Better than Test::Class
 =pkg Pod::Coverage::TrustPod
 
 =pkg Test::Pod 1.41
+
 
 =pkgroup Perl development tools
 
@@ -141,12 +148,16 @@ Better than Test::Class
 
 =pkg IO::Socket::SSL
 
+=pkg Plack
+
 =pkg URI
 
 =pkg WWW::Mechanize
 
 
 =pkgroup Data manipulation tools
+
+=pkg Const::Fast
 
 =pkg Data::Stream::Bulk
 
@@ -157,6 +168,8 @@ Better than Test::Class
 =pkg List::AllUtils
 
 =pkg Regexp::Common
+
+=pkg Syntax::Keyword::Junction
 
 =pkg XML::RSS
 

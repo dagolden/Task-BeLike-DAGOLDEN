@@ -1,3 +1,5 @@
+=pod
+
 =head1 NAME
 
 Task::BeLike::DAGOLDEN - DAGOLDEN's frequently-used or favorite modules
@@ -19,6 +21,10 @@ version 0.003
 =head3 L<App::mymeta_requires>
 
 =head3 L<App::Nopaste>
+
+=head3 L<App::Uni>
+
+=head3 L<Pantry>
 
 =head2 CLI tools
 
@@ -96,6 +102,8 @@ Better than Test::Class
 
 =head3 L<Data::Dump::Streamer>
 
+=head3 L<Devel::Cover>
+
 =head3 L<Devel::NYTProf>
 
 =head3 L<Dist::Zilla> 4
@@ -138,11 +146,15 @@ Better than Test::Class
 
 =head3 L<IO::Socket::SSL>
 
+=head3 L<Plack>
+
 =head3 L<URI>
 
 =head3 L<WWW::Mechanize>
 
 =head2 Data manipulation tools
+
+=head3 L<Const::Fast>
 
 =head3 L<Data::Stream::Bulk>
 
@@ -153,6 +165,8 @@ Better than Test::Class
 =head3 L<List::AllUtils>
 
 =head3 L<Regexp::Common>
+
+=head3 L<Syntax::Keyword::Junction>
 
 =head3 L<XML::RSS>
 
