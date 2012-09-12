@@ -21,6 +21,8 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg App::Uni
 
+=pkg Code::TidyAll
+
 =pkg Pantry
 
 
