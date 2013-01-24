@@ -203,7 +203,7 @@ Better than Test::Class
 
 =pkg Image::ExifTool
 
-=pkg Net::GitHub::V2::Repositories
+=pkg Net::GitHub::V3
 
 =pkg Vi::QuickFix
 
