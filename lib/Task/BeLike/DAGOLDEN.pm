@@ -13,6 +13,8 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg App::cpanminus
 
+=pkg App::ForkProve
+
 =pkg App::grindperl
 
 =pkg App::mymeta_requires
@@ -48,6 +50,8 @@ package Task::BeLike::DAGOLDEN;
 =pkg Path::Class
 
 =pkg Path::Class::Rule
+
+=pkg Path::Iterator::Rule
 
 
 =pkgroup Database Modules
