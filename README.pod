@@ -16,6 +16,8 @@ version 0.003
 
 =head3 L<App::cpanminus>
 
+=head3 L<App::ForkProve>
+
 =head3 L<App::grindperl>
 
 =head3 L<App::mymeta_requires>
@@ -23,6 +25,8 @@ version 0.003
 =head3 L<App::Nopaste>
 
 =head3 L<App::Uni>
+
+=head3 L<Code::TidyAll>
 
 =head3 L<Pantry>
 
@@ -47,6 +51,8 @@ version 0.003
 =head3 L<Path::Class>
 
 =head3 L<Path::Class::Rule>
+
+=head3 L<Path::Iterator::Rule>
 
 =head2 Database Modules
 
@@ -192,7 +198,7 @@ Better than Test::Class
 
 =head3 L<Image::ExifTool>
 
-=head3 L<Net::GitHub::V2::Repositories>
+=head3 L<Net::GitHub::V3>
 
 =head3 L<Vi::QuickFix>
 
