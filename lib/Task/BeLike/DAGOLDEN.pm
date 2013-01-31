@@ -53,6 +53,8 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg Path::Iterator::Rule
 
+=pkg Path::Tiny
+
 
 =pkgroup Database Modules
 
@@ -118,8 +120,6 @@ Better than Test::Class
 
 =pkg Module::Load::Conditional
 
-=pkg Moose
-
 =pkg Perl::Version
 
 =pkg Pod::Strip
@@ -129,6 +129,15 @@ Better than Test::Class
 =pkg namespace::autoclean
 
 =pkg version
+
+
+=pkgroup Moose
+
+=pkg Moose
+
+=pkg MooseX::Types
+
+=pkg MooseX::Types::Path::Tiny
 
 
 =pkgroup Email tools

@@ -2,6 +2,10 @@ Revision history for Task-BeLike-DAGOLDEN
 
 {{$NEXT}}
 
+    - create a Moose section
+
+    - add Path::Tiny
+
 0.003     2013-01-24 17:25:49 America/New_York
     - a few more modules
 
