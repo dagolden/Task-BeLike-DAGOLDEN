@@ -100,6 +100,8 @@ Better than Test::Class
 
 =pkg Archive::Zip
 
+=pkg Benchmark::Forking
+
 =pkg CPAN::DistnameInfo
 
 =pkg CPAN::Mini

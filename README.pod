@@ -6,7 +6,7 @@ Task::BeLike::DAGOLDEN - DAGOLDEN's frequently-used or favorite modules
 
 =head1 VERSION
 
-version 0.004
+version 0.005
 
 =head1 TASK CONTENTS
 
@@ -99,6 +99,8 @@ Better than Test::Class
 =head3 L<Archive::Tar::Wrapper>
 
 =head3 L<Archive::Zip>
+
+=head3 L<Benchmark::Forking>
 
 =head3 L<CPAN::DistnameInfo>
 

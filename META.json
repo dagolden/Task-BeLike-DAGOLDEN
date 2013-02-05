@@ -50,6 +50,7 @@
             "Archive::Tar" : "0",
             "Archive::Tar::Wrapper" : "0",
             "Archive::Zip" : "0",
+            "Benchmark::Forking" : "0",
             "Bundle::LWP" : "0",
             "CPAN::DistnameInfo" : "0",
             "CPAN::Mini" : "0",
@@ -141,7 +142,7 @@
    "provides" : {
       "Task::BeLike::DAGOLDEN" : {
          "file" : "lib/Task/BeLike/DAGOLDEN.pm",
-         "version" : "0.004"
+         "version" : "0.005"
       }
    },
    "release_status" : "stable",
@@ -157,6 +158,6 @@
          "web" : "https://github.com/dagolden/task-belike-dagolden"
       }
    },
-   "version" : "0.004"
+   "version" : "0.005"
 }
 
