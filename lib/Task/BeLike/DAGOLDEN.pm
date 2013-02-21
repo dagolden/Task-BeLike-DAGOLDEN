@@ -94,6 +94,8 @@ Better than Test::Class
 
 =pkgroup Perl development tools
 
+=pkg Acme::require::case
+
 =pkg Archive::Tar
 
 =pkg Archive::Tar::Wrapper
@@ -115,6 +117,8 @@ Better than Test::Class
 =pkg Devel::Cover
 
 =pkg Devel::NYTProf
+
+=pkg Dumbbench
 
 =pkg Dist::Zilla 4
 
