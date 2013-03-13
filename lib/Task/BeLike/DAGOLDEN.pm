@@ -55,6 +55,8 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg Path::Tiny
 
+=pkg Unicode::UTF8
+
 
 =pkgroup Database Modules
 
@@ -77,7 +79,7 @@ Better than Test::Exception
 
 =pkg Test::Routine
 
-Better than Test::Class
+=pkg Test::Roo
 
 =pkg Test::Perl::Critic
 
@@ -90,6 +92,8 @@ Better than Test::Class
 =pkg Pod::Coverage::TrustPod
 
 =pkg Test::Pod 1.41
+
+=pkg Test::FailWarnings
 
 
 =pkgroup Perl development tools
@@ -122,7 +126,7 @@ Better than Test::Class
 
 =pkg Dist::Zilla 4
 
-=pkg Dist::Zilla::PluginBundle::DAGOLDEN 0.018
+=pkg Dist::Zilla::PluginBundle::DAGOLDEN 0.043
 
 =pkg Module::Load::Conditional
 
@@ -167,6 +171,10 @@ Better than Test::Class
 
 =pkg HTTP::Tiny
 
+=pkg HTTP::CookieJar
+
+=pkg Mozilla::CA
+
 =pkg IO::Socket::SSL
 
 =pkg Plack
@@ -201,6 +209,8 @@ Better than Test::Class
 
 =pkgroup System interaction tools
 
+=pkg autodie
+
 =pkg Capture::Tiny
 
 =pkg IO::CaptureOutput
@@ -218,7 +228,7 @@ Better than Test::Class
 
 =pkg Image::ExifTool
 
-=pkg Net::GitHub::V3
+=pkg Net::GitHub
 
 =pkg Vi::QuickFix
 

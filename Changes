@@ -2,9 +2,9 @@ Revision history for Task-BeLike-DAGOLDEN
 
 {{$NEXT}}
 
-    - Acme::require::case
-
-    - Benchmark::Forking and Dumbbench
+    - Unicode::UTF8, Test::Roo, Test::FailWarnings, HTTP::CookieJar,
+      Mozilla::CA, autodie, Net::GitHub, Acme::require::case,
+      Benchmark::Forking and Dumbbench
 
 0.004     2013-01-31 11:25:14 America/New_York
 
