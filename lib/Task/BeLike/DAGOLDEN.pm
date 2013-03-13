@@ -25,8 +25,6 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg Code::TidyAll
 
-=pkg Pantry
-
 
 =pkgroup CLI tools
 

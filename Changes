@@ -4,6 +4,8 @@ Revision history for Task-BeLike-DAGOLDEN
 
     - superclass, TAP::Harness::Restricted
 
+    - remove Pantry
+
 0.005     2013-03-13 05:56:12 America/New_York
 
     - Unicode::UTF8, Test::Roo, Test::FailWarnings, HTTP::CookieJar,
