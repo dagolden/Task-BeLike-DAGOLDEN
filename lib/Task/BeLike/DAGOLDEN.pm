@@ -93,7 +93,9 @@ Better than Test::Exception
 
 =pkg Test::Pod 1.41
 
-=pkg Test::FailWarnings
+=pkg Test::FailWarnings 0.003
+
+=pkg TAP::Harness::Restricted
 
 
 =pkgroup Perl development tools

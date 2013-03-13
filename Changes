@@ -2,7 +2,7 @@ Revision history for Task-BeLike-DAGOLDEN
 
 {{$NEXT}}
 
-    - superclass
+    - superclass, TAP::Harness::Restricted
 
 0.005     2013-03-13 05:56:12 America/New_York
 
