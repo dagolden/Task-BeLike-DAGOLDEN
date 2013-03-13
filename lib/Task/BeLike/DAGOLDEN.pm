@@ -138,6 +138,8 @@ Better than Test::Exception
 
 =pkg namespace::autoclean
 
+=pkg superclass
+
 =pkg version
 
 
