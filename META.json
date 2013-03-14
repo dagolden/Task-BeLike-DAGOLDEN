@@ -98,7 +98,6 @@
             "MooseX::Types::Path::Tiny" : "0",
             "Mozilla::CA" : "0",
             "Net::GitHub" : "0",
-            "Pantry" : "0",
             "Path::Class" : "0",
             "Path::Class::Rule" : "0",
             "Path::Iterator::Rule" : "0",
@@ -111,10 +110,11 @@
             "Pod::Usage" : "0",
             "Regexp::Common" : "0",
             "Syntax::Keyword::Junction" : "0",
+            "TAP::Harness::Restricted" : "0",
             "Test::CPAN::Meta" : "0",
             "Test::Deep" : "0",
             "Test::Differences" : "0",
-            "Test::FailWarnings" : "0",
+            "Test::FailWarnings" : "0.003",
             "Test::Fatal" : "0",
             "Test::More" : "0.96",
             "Test::Perl::Critic" : "0",
@@ -134,6 +134,7 @@
             "namespace::autoclean" : "0",
             "perl" : "5.006",
             "strict" : "0",
+            "superclass" : "0",
             "version" : "0",
             "warnings" : "0"
          }
@@ -152,7 +153,7 @@
    "provides" : {
       "Task::BeLike::DAGOLDEN" : {
          "file" : "lib/Task/BeLike/DAGOLDEN.pm",
-         "version" : "0.005"
+         "version" : "0.006"
       }
    },
    "release_status" : "stable",
@@ -168,6 +169,6 @@
          "web" : "https://github.com/dagolden/task-belike-dagolden"
       }
    },
-   "version" : "0.005"
+   "version" : "0.006"
 }
 
