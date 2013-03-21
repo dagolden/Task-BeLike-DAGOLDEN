@@ -6,7 +6,7 @@ Task::BeLike::DAGOLDEN - DAGOLDEN's frequently-used or favorite modules
 
 =head1 VERSION
 
-version 0.006
+version 0.007
 
 =head1 TASK CONTENTS
 
@@ -168,7 +168,7 @@ Version 0.96 required because: Minimally sane subtest()'s
 
 =head3 L<LWP::Protocol::https>
 
-=head3 L<HTTP::Tiny>
+=head3 L<HTTP::Tiny> 0.028
 
 =head3 L<HTTP::CookieJar>
 

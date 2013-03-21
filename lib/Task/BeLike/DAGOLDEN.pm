@@ -171,7 +171,7 @@ Better than Test::Exception
 
 =pkg LWP::Protocol::https
 
-=pkg HTTP::Tiny
+=pkg HTTP::Tiny 0.028
 
 =pkg HTTP::CookieJar
 
