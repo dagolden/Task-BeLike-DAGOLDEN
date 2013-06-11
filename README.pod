@@ -14,8 +14,6 @@ version 0.007
 
 =head3 L<App::Ack>
 
-=head3 L<App::cpanminus>
-
 =head3 L<App::ForkProve>
 
 =head3 L<App::grindperl>
@@ -127,6 +125,8 @@ Version 0.96 required because: Minimally sane subtest()'s
 =head3 L<Dist::Zilla> 4
 
 =head3 L<Dist::Zilla::PluginBundle::DAGOLDEN> 0.043
+
+=head3 L<Dist::Zooky>
 
 =head3 L<Module::Load::Conditional>
 

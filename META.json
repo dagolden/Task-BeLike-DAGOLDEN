@@ -4,7 +4,7 @@
       "David Golden <dagolden@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300031, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Dist::Zilla version 4.300034, CPAN::Meta::Converter version 2.131560",
    "license" : [
       "apache_2_0"
    ],
@@ -45,7 +45,6 @@
             "App::ForkProve" : "0",
             "App::Nopaste" : "0",
             "App::Uni" : "0",
-            "App::cpanminus" : "0",
             "App::grindperl" : "0",
             "App::mymeta_requires" : "0",
             "Archive::Tar" : "0",
@@ -69,6 +68,7 @@
             "Devel::NYTProf" : "0",
             "Dist::Zilla" : "4",
             "Dist::Zilla::PluginBundle::DAGOLDEN" : "0.043",
+            "Dist::Zooky" : "0",
             "Dumbbench" : "0",
             "Email::MIME" : "0",
             "Email::Sender" : "0",
