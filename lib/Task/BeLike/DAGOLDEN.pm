@@ -11,8 +11,6 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg App::Ack
 
-=pkg App::cpanminus
-
 =pkg App::ForkProve
 
 =pkg App::grindperl
@@ -127,6 +125,8 @@ Better than Test::Exception
 =pkg Dist::Zilla 4
 
 =pkg Dist::Zilla::PluginBundle::DAGOLDEN 0.043
+
+=pkg Dist::Zooky
 
 =pkg Module::Load::Conditional
 
