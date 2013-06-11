@@ -4,6 +4,10 @@ Revision history for Task-BeLike-DAGOLDEN
 
     - require HTTP::Tiny 0.028 for good SSL/cookie-jar support
 
+    - add Dist::Zooky for converting old dists to dzil
+
+    - remove App::cpanminus to avoid interfering with perlbrew one
+
 0.006     2013-03-13 22:44:47 America/New_York
 
     - superclass, TAP::Harness::Restricted
