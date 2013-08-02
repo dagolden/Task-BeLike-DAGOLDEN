@@ -2,6 +2,8 @@ Revision history for Task-BeLike-DAGOLDEN
 
 {{$NEXT}}
 
+    - add IO::Prompt::Tiny
+
 0.007     2013-06-11 14:41:52 America/New_York
 
     - require HTTP::Tiny 0.028 for good SSL/cookie-jar support

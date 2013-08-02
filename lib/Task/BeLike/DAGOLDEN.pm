@@ -217,6 +217,8 @@ Better than Test::Exception
 
 =pkg IO::CaptureOutput
 
+=pkg IO::Prompt::Tiny
+
 =pkg IPC::Run3
 
 =pkg IPC::System::Simple
