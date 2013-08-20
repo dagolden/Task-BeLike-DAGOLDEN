@@ -4,7 +4,7 @@
       "David Golden <dagolden@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300034, CPAN::Meta::Converter version 2.131560",
+   "generated_by" : "Dist::Zilla version 4.300035, CPAN::Meta::Converter version 2.132140",
    "license" : [
       "apache_2_0"
    ],
@@ -84,6 +84,7 @@
             "HTTP::CookieJar" : "0",
             "HTTP::Tiny" : "0.028",
             "IO::CaptureOutput" : "0",
+            "IO::Prompt::Tiny" : "0",
             "IO::Socket::SSL" : "0",
             "IPC::Run3" : "0",
             "IPC::System::Simple" : "0",
@@ -153,7 +154,7 @@
    "provides" : {
       "Task::BeLike::DAGOLDEN" : {
          "file" : "lib/Task/BeLike/DAGOLDEN.pm",
-         "version" : "0.007"
+         "version" : "0.008"
       }
    },
    "release_status" : "stable",
@@ -169,6 +170,7 @@
          "web" : "https://github.com/dagolden/task-belike-dagolden"
       }
    },
-   "version" : "0.007"
+   "version" : "0.008",
+   "x_authority" : "cpan:DAGOLDEN"
 }
 

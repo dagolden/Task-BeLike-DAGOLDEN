@@ -6,7 +6,7 @@ Task::BeLike::DAGOLDEN - DAGOLDEN's frequently-used or favorite modules
 
 =head1 VERSION
 
-version 0.007
+version 0.008
 
 =head1 TASK CONTENTS
 
@@ -211,6 +211,8 @@ Version 0.96 required because: Minimally sane subtest()'s
 =head3 L<Capture::Tiny>
 
 =head3 L<IO::CaptureOutput>
+
+=head3 L<IO::Prompt::Tiny>
 
 =head3 L<IPC::Run3>
 
