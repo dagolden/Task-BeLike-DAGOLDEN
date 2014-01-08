@@ -114,8 +114,6 @@ Better than Test::Exception
 
 =pkg CPAN::Visitor
 
-=pkg Data::Dump::Streamer
-
 =pkg Devel::Cover
 
 =pkg Devel::NYTProf
