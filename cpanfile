@@ -113,7 +113,7 @@ on 'configure' => sub {
 };
 
 on 'develop' => sub {
-  requires "Dist::Zilla" => "5.008";
+  requires "Dist::Zilla" => "5.010";
   requires "Dist::Zilla::PluginBundle::DAGOLDEN" => "0.018";
   requires "File::Spec" => "0";
   requires "File::Temp" => "0";
