@@ -13,6 +13,10 @@ package Task::BeLike::DAGOLDEN;
 
 =pkg App::ForkProve
 
+=pkg App::cpanlistchanges
+
+=pkg App::cpanoutdated
+
 =pkg App::grindperl
 
 =pkg App::mymeta_requires
@@ -120,9 +124,9 @@ Better than Test::Exception
 
 =pkg Dumbbench
 
-=pkg Dist::Zilla 4
+=pkg Dist::Zilla 5
 
-=pkg Dist::Zilla::PluginBundle::DAGOLDEN 0.043
+=pkg Dist::Zilla::PluginBundle::DAGOLDEN 0.072
 
 =pkg Dist::Zooky
 
@@ -136,6 +140,8 @@ Better than Test::Exception
 
 =pkg namespace::autoclean
 
+=pkg namespace::clean
+
 =pkg superclass
 
 =pkg version
@@ -148,6 +154,8 @@ Better than Test::Exception
 =pkg MooseX::Types
 
 =pkg MooseX::Types::Path::Tiny
+
+=pkg Moo
 
 
 =pkgroup Email tools
@@ -190,9 +198,7 @@ Better than Test::Exception
 
 =pkg Data::Stream::Bulk
 
-=pkg JSON
-
-=pkg JSON::XS
+=pkg JSON::MaybeXS
 
 =pkg List::AllUtils
 
@@ -205,6 +211,8 @@ Better than Test::Exception
 =pkg XML::Simple
 
 =pkg YAML
+
+=pkg YAML::XS
 
 
 =pkgroup System interaction tools

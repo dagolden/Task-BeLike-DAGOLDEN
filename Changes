@@ -2,6 +2,13 @@ Revision history for Task-BeLike-DAGOLDEN
 
 {{$NEXT}}
 
+    - add cpanlistoutdated, cpanoutdated, Moo, namespace::clean,
+      JSON::MaybeXS, YAML::XS
+
+    - removed JSON and JSON::XS
+
+    - bumped version numbers on some dzil modules
+
 0.009     2014-01-12 09:57:06-05:00 America/New_York
 
     - remove Data::Dump::Streamer -- it is not well supported and
