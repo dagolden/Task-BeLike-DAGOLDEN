@@ -3,8 +3,9 @@ use strict;
 use warnings;
 
 package Task::BeLike::DAGOLDEN;
-# VERSION
 # ABSTRACT: DAGOLDEN's frequently-used or favorite modules
+
+our $VERSION = '1.010';
 
 
 =pkgroup Apps
