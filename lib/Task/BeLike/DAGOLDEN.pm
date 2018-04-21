@@ -44,8 +44,6 @@ our $VERSION = '1.011';
 
 =pkg File::Find::Rule::Perl
 
-=pkg File::Slurp
-
 =pkg File::pushd
 
 =pkg Path::Class
