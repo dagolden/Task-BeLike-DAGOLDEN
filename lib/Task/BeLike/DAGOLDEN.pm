@@ -5,7 +5,7 @@ use warnings;
 package Task::BeLike::DAGOLDEN;
 # ABSTRACT: DAGOLDEN's frequently-used or favorite modules
 
-our $VERSION = '1.011';
+our $VERSION = '1.012';
 
 
 =pkgroup Apps
